@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GeoGuesser</string>
+    <string name="title">GeoGuesser</string>
+    <string name="initialQuestion">¿De dónde es esta bandera?</string>
+    <string name="españa">España</string>
+    <string name="turquia">Turquía</string>
+    <string name="ucrania">Ucranía</string>
+    <string name="suiza">Suiza</string>
+    <string name="noruega">Noruega</string>
+    <string name="RepublicaCheca">Republica Checa</string>
+    <string name="dinamarca">Dinamarca</string>
+    <string name="macedonia">Macedonia</string>
+    <string name="irlanda">Republica de Irlanda</string>
+    <string name="uk">Reino Unido</string>
+    <string name="bandera">bandera</string>
+
+</resources>
